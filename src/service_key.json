@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nano-finance",
+  "private_key_id": "f2d7cef6c48676bc7ccace930b217d262dff99d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtLEMBCDl061PA\n06f42HaN9BGhWja35Hil4/oRANxb+hCyqsKEP5IOVEsD+gjcvlpkfQ1aEp0T7U2T\nCyq/zjacfhjTKaG6ih6JC/Z/Nh/aD+1wQExtS+4CjGx5ZNMVhEd0Psjzvea+soKb\nq54xgqRExywwkv9hHvqs6JK1m1vpHfl3n88Pu84eiZcwkFUG4YwSQPucw4p3ylGc\nSP8TbH6CwjbUTVmcj/2sJmgNkSPdOp4yxAO0f3LWrlJSHDIOpFdcscelfdvuYqvO\ne/7CtMUHtPAezi2mEBBWUPHv7voITtWBwqwj/wXFyNzZDOy0fA2oYiuggqteLySB\ncJyGJFbvAgMBAAECggEAJFbT7q0DpZnWVvHzXyBJbItpgbL1JYyvlpwq9xN3qmNk\nyqFTtT3Dz/b3UOvQnUXioRCu0xZx2OMksrUWsO48foVlfzZOxl7Cfp7AiLxaXb+W\n40XS4+KZnPZLswOp2euKtQWR1LgmaiD6kGEojposD3S+PKk0JvTBxLP/SVXDKT01\nEy3cZOyNK7SuBdNSGlAWo47lfSvDDmAephoLXdEl+h0nZWXzDCMfaY7aZJA/3Jm7\nvcwDXvALNPxwddFRt+McYxg5hn8rba/lvNmbWlBvjmogjcJ5LaxU6U3RggaecZC2\n0KlNKk7HbwBNTnWd2wLmR4OYVy4bkOnHGIobXesG7QKBgQDbCFtMQQO4RBjr3/G/\nNbY+FWgIw6biE5V9rvJTCZEu9f/vIIdjlHC9DdFRLq0Iij3KnEsthllRu3wEPSHI\n6PhYxxys7TcWREURW1O9ocf4WmhBmvcJEn5U20unVNQ3bouveDQLftEiz+fuhdfM\nmX4voTmImQB8X9lwq4TdgqFRHQKBgQDKZnbJxWdEeCD7+2diZofeHCqLs8Z58eiB\nuFRO/FeRf0eD644uziSj9lj2Tj36+XU9QQ2j5K/ulcp0PMyggPPjlspSZH82rXgz\n88BL2iovKUxwt0qL5ShhXSFdtSKND6DVnUqTNm55tQn2KDCuDztPMF1r+vHLFmW2\nBrmgpwt2ewKBgQCrwUbOaeD/2q5sMITCOt04m9KjpMC1YUQFdW1iPgtR9ueF3U0t\nghZRuYcdEOvw2W6Q9bRh84sQ82LRdBqNEFrGSwSqea2L0WcTsDjfaACGOGauo1T6\nET1tTzVo9rUe7pmstCajqQNYOA4YVW4ea3Ku6M9T1R6zaPn6RxV+GdRj5QKBgCui\nlX+AiHfxciMBG1PSiP4wkleWBXcq2RaGV97DdlmO2CsvsHKUzL9wj9NiIOinuUfg\na4Fm/yrvrjsLFI6R3oK1cp76vZZbJawFo/J2cVvDipBOY8rvN5puCpB6SZ2hvenv\nxDEirgSdLC2ekogkDoRPCAUMj+5ZwMnSf1iMSuNbAoGAX/J6XHSrJBNH4Rgw5faF\nDkyhDLLpXRwWSjFDQqRcjbc3yibxPBzsh3wbamQsPYQKjw1GYOmvN7SuBFJzfyVg\n/u7RZHCE7Qt6wYl/zK3NglnII0Bhi1DnWXnVb1Pbx0hd2m5RDethJJwlo9HYIoJW\n4G8xXoJls/Mi36u0/G9s1MY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-mlc2j@nano-finance.iam.gserviceaccount.com",
+  "client_id": "101404561655961399074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mlc2j%40nano-finance.iam.gserviceaccount.com"
+}
